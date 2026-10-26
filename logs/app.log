@@ -1,0 +1,3 @@
+2026-10-25 22:21:56 [INFO] Capstone Application initialized with status: HEALTHY
+2026-10-25 22:22:09 [INFO] Dataset uploaded for processing: datasample_input.csv
+2026-10-25 22:22:09 [INFO] Successfully computed metrics for 100 rows from datasample_input.csv
