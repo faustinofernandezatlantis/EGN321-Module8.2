@@ -66,3 +66,10 @@
 ## Part 11 — AI Usage Transparency
 - AI was used for UI boilerplate code, generating extended sample CSV data, and designing Pytest fixtures.
 - All code, validations, and documentation were manually verified and executed. Details logged in `AI_LOG.md`.
+
+
+## APP LINK
+
+´´´
+https://egn321-module-8-2.streamlit.app/
+´´´
